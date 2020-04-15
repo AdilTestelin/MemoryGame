@@ -10,11 +10,6 @@ To match those cards, you must :
 
 * If they are of same color (for exemple two heart cards) or of same height (for example two 10 cards), they stay returned.  
 
-* Else we return those cards on backside.  
+* Else we return those cards on backside.
 
-  
-  
-First, cards are charged by the HTML in backside.
-All cards are set with a different id, to differentiate them all with each other.
-There is the same onclick function on all the cards.
 
