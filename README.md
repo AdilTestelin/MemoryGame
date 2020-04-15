@@ -12,6 +12,7 @@ To match those cards, you must :
 
 * Else we return those cards on backside.
 
+Just pull the repository and launch memory.html to try it !
 
 Here, a screeshot of the game : 
 
