@@ -14,6 +14,6 @@ To match those cards, you must :
 
 Just pull the repository and launch __memory.html__ to try it !
 
-Here, a screeshot of the game : 
+Here, a screenshot of the game : 
 
 <img src="http://image.noelshack.com/fichiers/2020/16/3/1586961521-capture-d-ecran-de-2020-04-15-16-37-39.png">
