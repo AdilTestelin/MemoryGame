@@ -12,7 +12,7 @@ To match those cards, you must :
 
 * Else we return those cards on backside.
 
-Just pull the repository and launch memory.html to try it !
+Just pull the repository and launch __underscores__memory.html__underscores__ to try it !
 
 Here, a screeshot of the game : 
 
